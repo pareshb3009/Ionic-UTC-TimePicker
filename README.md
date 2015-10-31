@@ -12,7 +12,6 @@ This is a `ionic-utc-timepicker` bower component which can be used with any Ioni
 
 1) In your project repository install the ionic time picker using bower
 
-`bower install ionic-utc-timepicker --save`
 
 2) Give the path of  `ionic-timepicker.bundle.min.js` in your `index.html` file.
 

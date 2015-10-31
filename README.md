@@ -45,7 +45,7 @@ $scope.timePickerFromObject = {
 };
 ````
 
-**$scope.timePickerObject** is the object, that we need to pass to the directive. The properties of this object are as follows.
+**$scope.timePickerFromObject ** is the object, that we need to pass to the directive. The properties of this object are as follows.
 
 **b) step** (Optional) : This the minute increment / decrement step. Default value is `15`
 
